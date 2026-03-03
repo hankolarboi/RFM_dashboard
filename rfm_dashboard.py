@@ -8,7 +8,6 @@ import os
 
 # matplotlib設定
 plt.rcParams['font.family'] = 'meiryo'
-plt.rcParams['axes.unicode_minus'] = False
 
 # ページ設定
 st.set_page_config(page_title="RFM分析ダッシュボード", layout="wide")
